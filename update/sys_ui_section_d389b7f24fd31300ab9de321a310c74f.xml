@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Carnet Info" section_id="d389b7f24fd31300ab9de321a310c74f" sys_domain="global" table="x_253123_logistics_manifest" version="3" view="logistics_view_2">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_carnet_number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-18 20:06:00</sys_created_on>
+            <sys_id>0308840f4fd31300ab9de321a310c78f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Carnet Info" display_value="Carnet Info" name="x_253123_logistics_manifest" sys_domain="global" view="70a83bb24fd31300ab9de321a310c76e">d389b7f24fd31300ab9de321a310c74f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-18 20:06:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_carnet_exp_date</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-18 20:06:00</sys_created_on>
+            <sys_id>8308840f4fd31300ab9de321a310c78f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Carnet Info" display_value="Carnet Info" name="x_253123_logistics_manifest" sys_domain="global" view="70a83bb24fd31300ab9de321a310c76e">d389b7f24fd31300ab9de321a310c74f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-18 20:06:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Carnet Info</caption>
+            <header>false</header>
+            <name>x_253123_logistics_manifest</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-18 19:02:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d389b7f24fd31300ab9de321a310c74f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Carnet Info</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Logistics" source="x_253123_logistics">736ea7ba4f931300ab9de321a310c7cc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Logistics">736ea7ba4f931300ab9de321a310c7cc</sys_scope>
+            <sys_update_name>sys_ui_section_d389b7f24fd31300ab9de321a310c74f</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-18 19:02:40</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Logistics View 2" name="logistics_view_2">70a83bb24fd31300ab9de321a310c76e</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

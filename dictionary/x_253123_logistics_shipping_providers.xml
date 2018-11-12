@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Shipping Providers" max_length="40" name="x_253123_logistics_shipping_providers" type="collection">
+        <element display="true" label="Name" max_length="40" name="name" type="string"/>
+    </element>
+</database>

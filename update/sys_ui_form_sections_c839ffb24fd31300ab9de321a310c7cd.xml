@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="c839ffb24fd31300ab9de321a310c7cd" sys_domain="global" table="x_253123_logistics_manifest" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-18 19:01:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8839ffb24fd31300ab9de321a310c7cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_253123_logistics_manifest" name="x_253123_logistics_manifest" sys_domain="global" view="70a83bb24fd31300ab9de321a310c76e">c839ffb24fd31300ab9de321a310c7cd</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_253123_logistics_manifest" sys_domain="global" view="70a83bb24fd31300ab9de321a310c76e">09f87fb24fd31300ab9de321a310c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-18 19:01:04</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-18 19:29:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>459ffbb64fd31300ab9de321a310c774</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_253123_logistics_manifest" name="x_253123_logistics_manifest" sys_domain="global" view="70a83bb24fd31300ab9de321a310c76e">c839ffb24fd31300ab9de321a310c7cd</sys_ui_form>
+            <sys_ui_section caption="Shipping Information" display_value="Shipping Information" name="x_253123_logistics_manifest" sys_domain="global" view="70a83bb24fd31300ab9de321a310c76e">f89ffbb64fd31300ab9de321a310c702</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-18 19:29:00</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-18 19:01:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4439ffb24fd31300ab9de321a310c7d0</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_253123_logistics_manifest" name="x_253123_logistics_manifest" sys_domain="global" view="70a83bb24fd31300ab9de321a310c76e">c839ffb24fd31300ab9de321a310c7cd</sys_ui_form>
+            <sys_ui_section caption="Recipient" display_value="Recipient" name="x_253123_logistics_manifest" sys_domain="global" view="70a83bb24fd31300ab9de321a310c76e">cc39ffb24fd31300ab9de321a310c7cc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-18 19:29:00</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-18 19:02:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>af89f7f24fd31300ab9de321a310c713</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_253123_logistics_manifest" name="x_253123_logistics_manifest" sys_domain="global" view="70a83bb24fd31300ab9de321a310c76e">c839ffb24fd31300ab9de321a310c7cd</sys_ui_form>
+            <sys_ui_section caption="Carnet Info" display_value="Carnet Info" name="x_253123_logistics_manifest" sys_domain="global" view="70a83bb24fd31300ab9de321a310c76e">d389b7f24fd31300ab9de321a310c74f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-18 19:36:45</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_253123_logistics_manifest</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-18 19:01:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c839ffb24fd31300ab9de321a310c7cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_253123_logistics_manifest</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Logistics" source="x_253123_logistics">736ea7ba4f931300ab9de321a310c7cc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Logistics">736ea7ba4f931300ab9de321a310c7cc</sys_scope>
+            <sys_update_name>sys_ui_form_sections_c839ffb24fd31300ab9de321a310c7cd</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-18 19:01:04</sys_updated_on>
+            <sys_user/>
+            <view display_value="Logistics View 2" name="logistics_view_2">70a83bb24fd31300ab9de321a310c76e</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

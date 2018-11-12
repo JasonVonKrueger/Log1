@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="09f87fb24fd31300ab9de321a310c7e4" sys_domain="global" table="x_253123_logistics_manifest" version="3" view="logistics_view_2">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-20 15:49:51</sys_created_on>
+            <sys_id>9a9025ab4f531300ab9de321a310c7f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_253123_logistics_manifest" sys_domain="global" view="70a83bb24fd31300ab9de321a310c76e">09f87fb24fd31300ab9de321a310c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-20 15:49:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_barcode</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-20 15:49:51</sys_created_on>
+            <sys_id>529025ab4f531300ab9de321a310c7f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_253123_logistics_manifest" sys_domain="global" view="70a83bb24fd31300ab9de321a310c76e">09f87fb24fd31300ab9de321a310c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-20 15:49:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_manifest_number</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-20 15:49:51</sys_created_on>
+            <sys_id>d29025ab4f531300ab9de321a310c7f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_253123_logistics_manifest" sys_domain="global" view="70a83bb24fd31300ab9de321a310c76e">09f87fb24fd31300ab9de321a310c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-20 15:49:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_work_log</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-20 15:49:51</sys_created_on>
+            <sys_id>569025ab4f531300ab9de321a310c7f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_253123_logistics_manifest" sys_domain="global" view="70a83bb24fd31300ab9de321a310c76e">09f87fb24fd31300ab9de321a310c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-20 15:49:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_by</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-20 15:49:51</sys_created_on>
+            <sys_id>d69025ab4f531300ab9de321a310c7f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_253123_logistics_manifest" sys_domain="global" view="70a83bb24fd31300ab9de321a310c76e">09f87fb24fd31300ab9de321a310c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-20 15:49:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_253123_logistics_manifest</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-18 19:00:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>09f87fb24fd31300ab9de321a310c7e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_253123_logistics_manifest</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Logistics" source="x_253123_logistics">736ea7ba4f931300ab9de321a310c7cc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Logistics">736ea7ba4f931300ab9de321a310c7cc</sys_scope>
+            <sys_update_name>sys_ui_section_09f87fb24fd31300ab9de321a310c7e4</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-18 19:00:03</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Logistics View 2" name="logistics_view_2">70a83bb24fd31300ab9de321a310c76e</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

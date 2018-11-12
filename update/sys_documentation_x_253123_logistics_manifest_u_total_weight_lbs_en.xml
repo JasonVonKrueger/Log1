@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_total_weight_lbs" label="Total Weight (lbs)" language="en" table="x_253123_logistics_manifest">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_total_weight_lbs</element>
+            <help/>
+            <hint/>
+            <label>Total Weight (lbs)</label>
+            <language>en</language>
+            <name>x_253123_logistics_manifest</name>
+            <plural>Total Weight (lbs)</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-19 18:48:17</sys_created_on>
+            <sys_id>d2df7c9b4fd31300ab9de321a310c757</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Total Weight (lbs)</sys_name>
+            <sys_package display_value="Logistics" source="x_253123_logistics">736ea7ba4f931300ab9de321a310c7cc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Logistics">736ea7ba4f931300ab9de321a310c7cc</sys_scope>
+            <sys_update_name>sys_documentation_x_253123_logistics_manifest_u_total_weight_lbs_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-19 18:48:17</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Provider Locations" max_length="40" name="x_253123_logistics_provider_locations" type="collection">
+        <element label="Address" max_length="500" name="address" type="string"/>
+        <element label="City" max_length="40" name="city" type="string"/>
+        <element label="Cost Center" max_length="40" name="cost_center" type="string"/>
+        <element label="Country" max_length="40" name="country" type="string"/>
+        <element label="Letter Code" max_length="40" name="letter_code" type="string"/>
+        <element label="Location Code" max_length="40" name="location_code" type="string"/>
+        <element choice="1" label="Location Type" max_length="40" name="location_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Colo" value="Colo"/>
+                <element inactive_on_update="false" label="Office" value="Office"/>
+                <element inactive_on_update="false" label="POP" value="POP"/>
+                <element inactive_on_update="false" label="Teleport" value="Teleport"/>
+            </choice>
+        </element>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Post Code" max_length="40" name="post_code" type="string"/>
+        <element label="SFDC Name" max_length="40" name="sfdc_name" type="string"/>
+        <element label="Site Latitude" max_length="40" name="site_latitude" type="string"/>
+        <element label="Site Longitude" max_length="40" name="site_longitude" type="string"/>
+        <element label="Site Owner" max_length="40" name="site_owner" type="string"/>
+        <element label="State" max_length="40" name="state" type="string"/>
+        <element label="Status" max_length="40" name="status" type="string"/>
+    </element>
+</database>

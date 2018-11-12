@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="site_latitude" label="Site Latitude" language="en" table="x_253123_logistics_provider_locations">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>site_latitude</element>
+            <help/>
+            <hint/>
+            <label>Site Latitude</label>
+            <language>en</language>
+            <name>x_253123_logistics_provider_locations</name>
+            <plural>Site Latitudes</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-19 20:18:49</sys_created_on>
+            <sys_id>b094191b4f171300ab9de321a310c7db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Site Latitude</sys_name>
+            <sys_package display_value="Logistics" source="x_253123_logistics">736ea7ba4f931300ab9de321a310c7cc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Logistics">736ea7ba4f931300ab9de321a310c7cc</sys_scope>
+            <sys_update_name>sys_documentation_x_253123_logistics_provider_locations_site_latitude_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-19 20:18:49</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

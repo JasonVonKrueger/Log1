@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Manifest" max_length="40" name="x_253123_logistics_manifest" type="collection">
+        <element label="Description" max_length="1024" name="description" type="string"/>
+        <element label="Estimated Arrival Date" max_length="40" name="estimated_arrival_date" type="glide_date"/>
+        <element display="true" label="Name" mandatory="true" max_length="40" name="name" type="string"/>
+        <element label="Recipient Name" max_length="32" name="recipient_name" reference="sys_user" type="reference"/>
+        <element choice="1" label="Shipping Status" max_length="40" name="shipping_status" read_only="true" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Requested" sequence="0" value="requested"/>
+                <element inactive_on_update="false" label="Approved" sequence="1" value="approved"/>
+                <element inactive_on_update="false" label="Rejected" sequence="2" value="rejected"/>
+            </choice>
+        </element>
+        <element choice="1" label="Ship From" max_length="40" name="ship_from" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="Ship To" max_length="40" name="ship_to" type="choice">
+            <choice/>
+        </element>
+        <element attributes="barcode=true,edge_encryption_enabled=true" label="Barcode" max_length="40" name="u_barcode" type="string"/>
+        <element label="Carnet Expiration Date" max_length="40" name="u_carnet_exp_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Carnet Number" max_length="40" name="u_carnet_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Manifest Number" max_length="40" name="u_manifest_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Shipment Type" max_length="40" name="u_shipment_type" type="string">
+            <choice>
+                <element inactive_on_update="false" label="National" sequence="0" value="national"/>
+                <element inactive_on_update="false" label="International" sequence="1" value="international"/>
+            </choice>
+        </element>
+        <element dependent="Name" dependent_on_field="Name" label="Shipping Provider" max_length="32" name="u_shipping_provider" reference="x_253123_logistics_shipping_providers" reference_qual="nameSTARTSWITH^EQ" reference_qual_condition="nameSTARTSWITH^EQ" type="reference" use_dependent_field="true"/>
+        <element label="Ship From" max_length="32" name="u_ship_from" reference="x_253123_logistics_provider_locations" type="reference"/>
+        <element label="Ship To" max_length="32" name="u_ship_to" reference="x_253123_logistics_provider_locations" type="reference"/>
+        <element label="Total Weight (kg)" max_length="40" name="u_total_weight_kg" read_only="true" type="longint"/>
+        <element label="Total Weight (lbs)" max_length="40" name="u_total_weight_lbs" type="float"/>
+        <element attributes="edge_encryption_enabled=true" label="Tracking" max_length="40" name="u_tracking" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Work Log" max_length="4000" name="u_work_log" type="journal"/>
+        <index name="index">
+            <element name="u_ship_to"/>
+        </index>
+        <index name="index2">
+            <element name="u_ship_from"/>
+        </index>
+        <index name="index3">
+            <element name="u_shipping_provider"/>
+        </index>
+        <index name="index4">
+            <element name="recipient_name"/>
+        </index>
+    </element>
+</database>
